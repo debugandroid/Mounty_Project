@@ -1,0 +1,12 @@
+{
+    "Beverages":{
+        "Soft Drinks":["Cans","Pet Bottles","Mango Drinks"],
+        "Juices and Concentrates":["Assorted Juices","Mango and Orange Juices","Concentrates","Squash and Sharbat","Ayurvedic and Oraganic Juices"],
+        "Tea and Coffee":[],
+        "Health and Energy Drinks":[],
+        "Milk Drinks":[]
+    },
+    "Household Needs":{
+        "Laundry Detergents":["Detergent Powder","Liquid Detergent","Detergent Bars","Laundry Additives"],
+    }
+}
